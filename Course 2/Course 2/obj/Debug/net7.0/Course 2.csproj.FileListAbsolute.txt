@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\bin\Debug\net7.0\Course 2.exe
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\bin\Debug\net7.0\Course 2.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\bin\Debug\net7.0\Course 2.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\bin\Debug\net7.0\Course 2.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\bin\Debug\net7.0\Course 2.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\refint\Course 2.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\Course 2.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Course 2\Course 2\obj\Debug\net7.0\ref\Course 2.dll

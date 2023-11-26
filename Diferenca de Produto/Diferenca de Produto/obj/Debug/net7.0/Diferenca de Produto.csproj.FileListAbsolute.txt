@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\bin\Debug\net7.0\Diferenca de Produto.exe
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\bin\Debug\net7.0\Diferenca de Produto.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\bin\Debug\net7.0\Diferenca de Produto.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\bin\Debug\net7.0\Diferenca de Produto.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\bin\Debug\net7.0\Diferenca de Produto.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\refint\Diferenca de Produto.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\Diferenca de Produto.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Diferenca de Produto\Diferenca de Produto\obj\Debug\net7.0\ref\Diferenca de Produto.dll

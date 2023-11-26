@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\bin\Debug\net7.0\Média Ponderada.exe
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\bin\Debug\net7.0\Média Ponderada.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\bin\Debug\net7.0\Média Ponderada.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\bin\Debug\net7.0\Média Ponderada.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\bin\Debug\net7.0\Média Ponderada.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\refint\Média Ponderada.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\Média Ponderada.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Média Ponderada\Média Ponderada\obj\Debug\net7.0\ref\Média Ponderada.dll

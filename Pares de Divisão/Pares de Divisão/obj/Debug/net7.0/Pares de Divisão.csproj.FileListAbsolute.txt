@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\bin\Debug\net7.0\Pares de Divisão.exe
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\bin\Debug\net7.0\Pares de Divisão.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\bin\Debug\net7.0\Pares de Divisão.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\bin\Debug\net7.0\Pares de Divisão.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\bin\Debug\net7.0\Pares de Divisão.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\refint\Pares de Divisão.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\Pares de Divisão.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Pares de Divisão\Pares de Divisão\obj\Debug\net7.0\ref\Pares de Divisão.dll

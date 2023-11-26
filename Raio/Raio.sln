@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raio", "Raio\Raio.csproj", "{91E0CF67-B47A-4089-B08D-575BF6FE723B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E0CF67-B47A-4089-B08D-575BF6FE723B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E0CF67-B47A-4089-B08D-575BF6FE723B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E0CF67-B47A-4089-B08D-575BF6FE723B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E0CF67-B47A-4089-B08D-575BF6FE723B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05277DD4-2218-470D-880E-A29F180A8C22}
+	EndGlobalSection
+EndGlobal

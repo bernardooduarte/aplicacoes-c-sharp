@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\bin\Debug\net7.0\Produtos 3.exe
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\bin\Debug\net7.0\Produtos 3.deps.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\bin\Debug\net7.0\Produtos 3.runtimeconfig.json
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\bin\Debug\net7.0\Produtos 3.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\bin\Debug\net7.0\Produtos 3.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\refint\Produtos 3.dll
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.pdb
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\Produtos 3.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Produtos 3\Produtos 3\obj\Debug\net7.0\ref\Produtos 3.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Intervalo
-build_property.ProjectDir = C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\Intervalo\Intervalo\
+build_property.ProjectDir = C:\Users\berna\Desktop\aplicacoes-c-sharp\Intervalo\Intervalo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

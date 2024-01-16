@@ -1,0 +1,15 @@
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\bin\Debug\net8.0\funcoes-interessantes-string.exe
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\bin\Debug\net8.0\funcoes-interessantes-string.deps.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\bin\Debug\net8.0\funcoes-interessantes-string.runtimeconfig.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\bin\Debug\net8.0\funcoes-interessantes-string.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\bin\Debug\net8.0\funcoes-interessantes-string.pdb
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.AssemblyInfo.cs
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.sourcelink.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\refint\funcoes-interessantes-string.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.pdb
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\funcoes-interessantes-string.genruntimeconfig.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\funcoes-interessantes-string\funcoes-interessantes-string\obj\Debug\net8.0\ref\funcoes-interessantes-string.dll

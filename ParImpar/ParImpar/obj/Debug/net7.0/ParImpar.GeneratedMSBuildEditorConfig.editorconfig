@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ParImpar
-build_property.ProjectDir = C:\Users\berna\OneDrive\Área de Trabalho\Projetos C#\ParImpar\ParImpar\
+build_property.ProjectDir = C:\Users\berna\Desktop\aplicacoes-c-sharp\ParImpar\ParImpar\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

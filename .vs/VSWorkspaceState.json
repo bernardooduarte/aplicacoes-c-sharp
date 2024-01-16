@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AlunoNotas",
-    "\\AlunoNotas\\AlunoNotas",
-    "\\Course",
-    "\\Course\\Course"
+    "\\condicionalTernaria"
   ],
-  "SelectedNode": "\\Course\\Course\\Program.cs",
+  "SelectedNode": "\\condicionalTernaria",
   "PreviewInSolutionExplorer": false
 }

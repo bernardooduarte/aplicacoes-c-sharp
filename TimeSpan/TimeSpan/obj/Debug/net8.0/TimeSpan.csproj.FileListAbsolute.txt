@@ -1,0 +1,15 @@
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.exe
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.deps.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.runtimeconfig.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\bin\Debug\net8.0\TimeSpan.pdb
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.AssemblyInfo.cs
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.sourcelink.json
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\refint\TimeSpan.dll
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.pdb
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\TimeSpan.genruntimeconfig.cache
+C:\Users\berna\Desktop\aplicacoes-c-sharp\TimeSpan\TimeSpan\obj\Debug\net8.0\ref\TimeSpan.dll
